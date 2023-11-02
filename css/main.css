@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+}
+
+/* navbar styiing */
+body {
+    font-family: "Mulish", sans-serif;
+    background: #fff;
+    color: #333;
+    line-height: 1.5;
+  } 
